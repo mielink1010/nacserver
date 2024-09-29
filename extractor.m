@@ -25,6 +25,11 @@ NSString *get_root_disk_uuid() {
 
 // Gets the derived obfuscated iMessage keys from IOKit
 // What are these for?
+// Gq3489ugfi: Platform serial number
+// Fyp98tpgj: IO Platform UUID
+// abKPld1EcMni: MLB
+// oycqAZloTNDm: ROM
+// kbjfrfpoJU: Boot UUID
 #define G_NAME "Gq3489ugfi"
 #define F_NAME "Fyp98tpgj"
 #define K_NAME "kbjfrfpoJU"
